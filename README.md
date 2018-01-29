@@ -18,5 +18,5 @@ Housing Regression analysis on the Ames Housing set from Kaggle. Used python, pa
   Rather than pick the best model, I combine all of the best models together into an ensemble model to avoid any bias in model selection. I apply this ensemble model to the test set and make predictions on the test set.
   
   3) Results:
-   My prediction submission to Kaggle received a log loss of , placing me out of blank, in the top % of all submissions.
+   My prediction submission to Kaggle received a log loss of 0.11820, placing me 572 out of 3428, in the top 17% of all submissions.
  
